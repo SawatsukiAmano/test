@@ -1,0 +1,4 @@
+[PersonCats]
+other = "{{.Name}} は猫を飼っています"
+[Thanks]
+other = "ありがとう"
